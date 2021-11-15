@@ -1,0 +1,33 @@
+div.a {
+    width: 250px;
+    height: 100px;
+    border: 3px solid black;
+    padding: 30px;
+    margin-left: 500px;
+    margin-top: 200px
+}
+div.b {
+    transform: rotate(-90deg);
+    width: 250px;
+    height: 100px;
+    border: 3px solid black;
+    padding: 30px;
+    margin-left: 650px;
+}
+div.c {
+    transform: rotate(90deg);
+    width: 250px;
+    height: 35px;
+    border: 3px solid black;
+    padding: 30px;
+    margin-left: 200px;
+}
+div.d {
+    transform: rotate(180deg);
+    width: 250px;
+    height: 35px;
+    border: 3px solid black;
+    padding: 30px;
+    margin-left: 308px;
+    margin-top: 5px;
+}
