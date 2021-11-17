@@ -1,0 +1,6186 @@
+body { 
+	font-family:"Brick Display Pro"; 
+	background-color: #9A94A7;
+	
+}
+
+div { 
+	position: absolute; 
+}
+
+#content-container { 
+	display: block; 
+	position: relative; 
+	width: 1400px;  
+	margin-left: auto; 
+	margin-right: auto;  
+}
+
+#content-container > div{ 
+	position: relative; 
+	top:inherit; 
+}
+#con1 {
+	top: 0px;
+	left: 0px;
+	width: 1400px;
+	height: 1138px;
+}
+
+#line1 {
+	top: 180px;
+	left: 44px;
+	width: 253.57px;
+	height: 140.05px;
+}
+
+#d {
+	top: 18px;
+	left: -5px;
+	width: 42.7px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o {
+	top: 7px;
+	left: 9px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u {
+	top: -2px;
+	left: 21px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b {
+	top: -8px;
+	left: 35px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l {
+	top: -12px;
+	left: 49px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e {
+	top: -15px;
+	left: 58px;
+	width: 39.09px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#__ {
+	top: -17px;
+	left: 72px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek1 {
+	top: -17px;
+	left: 80px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek1 {
+	top: -17px;
+	left: 88px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek1 {
+	top: -15px;
+	left: 103px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek1 {
+	top: -11px;
+	left: 117px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek1 {
+	top: -6px;
+	left: 131px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek1 {
+	top: 0px;
+	left: 144px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek1 {
+	top: 7px;
+	left: 151px;
+	width: 39.09px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek2 {
+	top: 14px;
+	left: 163px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t {
+	top: 20px;
+	left: 168px;
+	width: 35.49px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek2 {
+	top: 30px;
+	left: 174px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i {
+	top: 40px;
+	left: 183px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek2 {
+	top: 48px;
+	left: 187px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek3 {
+	top: 55px;
+	left: 191px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a {
+	top: 65px;
+	left: 192px;
+	width: 38.37px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n {
+	top: 79px;
+	left: 194px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek2 {
+	top: 94px;
+	left: 196px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek4 {
+	top: 105px;
+	left: 200px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek1 {
+	top: 114px;
+	left: 197px;
+	width: 35.49px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r {
+	top: 125px;
+	left: 195px;
+	width: 36.21px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek3 {
+	top: 137px;
+	left: 190px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek2 {
+	top: 151px;
+	left: 184px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek2 {
+	top: 164px;
+	left: 176px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek3 {
+	top: 174px;
+	left: 172px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek2 {
+	top: 182px;
+	left: 161px;
+	width: 39.09px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek5 {
+	top: 190px;
+	left: 154px;
+	width: 34.77px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line2 {
+	top: 471px;
+	left: 50px;
+	width: 260.75px;
+	height: 96.77px;
+}
+
+#f {
+	top: -88px;
+	left: 127px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek1 {
+	top: -81px;
+	left: 123px;
+	width: 33.67px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek1 {
+	top: -74px;
+	left: 116px;
+	width: 35.68px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek3 {
+	top: -65px;
+	left: 108px;
+	width: 38.35px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek6 {
+	top: -58px;
+	left: 105px;
+	width: 32.34px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek3 {
+	top: -49px;
+	left: 97px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek3 {
+	top: -37px;
+	left: 92px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek2 {
+	top: -27px;
+	left: 90px;
+	width: 35.68px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek1 {
+	top: -16px;
+	left: 85px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek7 {
+	top: -6px;
+	left: 87px;
+	width: 32.34px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek1 {
+	top: 3px;
+	left: 84px;
+	width: 37.68px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek2 {
+	top: 15px;
+	left: 83px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek3 {
+	top: 28px;
+	left: 84px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek8 {
+	top: 38px;
+	left: 89px;
+	width: 32.34px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#c {
+	top: 47px;
+	left: 88px;
+	width: 38.35px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek2 {
+	top: 58px;
+	left: 93px;
+	width: 37.68px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek4 {
+	top: 67px;
+	left: 99px;
+	width: 33.67px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek4 {
+	top: 76px;
+	left: 101px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek3 {
+	top: 86px;
+	left: 109px;
+	width: 35.68px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek4 {
+	top: 95px;
+	left: 114px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek3 {
+	top: 104px;
+	left: 123px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek9 {
+	top: 111px;
+	left: 133px;
+	width: 32.34px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek4 {
+	top: 117px;
+	left: 138px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek4 {
+	top: 124px;
+	left: 149px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek5 {
+	top: 129px;
+	left: 160px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek6 {
+	top: 134px;
+	left: 172px;
+	width: 39.02px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek5 {
+	top: 137px;
+	left: 185px;
+	width: 33.67px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek4 {
+	top: 139px;
+	left: 193px;
+	width: 38.35px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek10 {
+	top: 140px;
+	left: 205px;
+	width: 34.34px;
+	height: 36.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line3 {
+	top: 594px;
+	left: 262px;
+	width: 239px;
+	height: 37.08px;
+}
+
+#f_ek1 {
+	top: 22px;
+	left: 3px;
+	width: 38.74px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek2 {
+	top: 23px;
+	left: 16px;
+	width: 33.54px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek6 {
+	top: 24px;
+	left: 24px;
+	width: 33.54px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek7 {
+	top: 24px;
+	left: 32px;
+	width: 33.54px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek5 {
+	top: 24px;
+	left: 39px;
+	width: 38.09px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek2 {
+	top: 24px;
+	left: 52px;
+	width: 34.84px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek11 {
+	top: 24px;
+	left: 61px;
+	width: 32.25px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek5 {
+	top: 24px;
+	left: 67px;
+	width: 38.74px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek2 {
+	top: 23px;
+	left: 80px;
+	width: 34.19px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek12 {
+	top: 23px;
+	left: 88px;
+	width: 32.25px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek3 {
+	top: 22px;
+	left: 94px;
+	width: 37.44px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek13 {
+	top: 20px;
+	left: 106px;
+	width: 32.25px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek3 {
+	top: 19px;
+	left: 112px;
+	width: 34.19px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek6 {
+	top: 17px;
+	left: 120px;
+	width: 38.09px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek4 {
+	top: 15px;
+	left: 132px;
+	width: 38.74px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek5 {
+	top: 11px;
+	left: 145px;
+	width: 38.74px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#y {
+	top: 8px;
+	left: 157px;
+	width: 36.79px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek14 {
+	top: 6px;
+	left: 168px;
+	width: 32.25px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s {
+	top: 3px;
+	left: 174px;
+	width: 36.79px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek6 {
+	top: -1px;
+	left: 184px;
+	width: 38.74px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek4 {
+	top: -6px;
+	left: 196px;
+	width: 37.44px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#k {
+	top: -11px;
+	left: 206px;
+	width: 38.09px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek7 {
+	top: -16px;
+	left: 217px;
+	width: 38.09px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek15 {
+	top: -21px;
+	left: 228px;
+	width: 33.54px;
+	height: 35.83px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line4 {
+	top: 553px;
+	left: 499px;
+	width: 290.45px;
+	height: 108.28px;
+}
+
+#i_ek3 {
+	top: 14px;
+	left: 3px;
+	width: 34.84px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek7 {
+	top: 7px;
+	left: 11px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek16 {
+	top: 1px;
+	left: 24px;
+	width: 32.65px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek3 {
+	top: -3px;
+	left: 31px;
+	width: 35.57px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h {
+	top: -7px;
+	left: 40px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek8 {
+	top: -11px;
+	left: 55px;
+	width: 39.22px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek17 {
+	top: -13px;
+	left: 69px;
+	width: 32.65px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#c_ek1 {
+	top: -15px;
+	left: 76px;
+	width: 39.22px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek5 {
+	top: -15px;
+	left: 91px;
+	width: 38.49px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek8 {
+	top: -14px;
+	left: 104px;
+	width: 34.11px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek5 {
+	top: -13px;
+	left: 113px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek4 {
+	top: -10px;
+	left: 128px;
+	width: 36.3px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek6 {
+	top: -5px;
+	left: 138px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek8 {
+	top: 1px;
+	left: 152px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek18 {
+	top: 6px;
+	left: 166px;
+	width: 32.65px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek7 {
+	top: 12px;
+	left: 171px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek7 {
+	top: 22px;
+	left: 183px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek4 {
+	top: 30px;
+	left: 195px;
+	width: 34.11px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek9 {
+	top: 37px;
+	left: 201px;
+	width: 34.11px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek19 {
+	top: 43px;
+	left: 207px;
+	width: 32.65px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek6 {
+	top: 52px;
+	left: 210px;
+	width: 38.49px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek9 {
+	top: 65px;
+	left: 216px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek6 {
+	top: 78px;
+	left: 222px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek20 {
+	top: 89px;
+	left: 229px;
+	width: 32.65px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek8 {
+	top: 100px;
+	left: 228px;
+	width: 39.95px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek7 {
+	top: 114px;
+	left: 231px;
+	width: 38.49px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#k_ek1 {
+	top: 128px;
+	left: 232px;
+	width: 39.22px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek9 {
+	top: 142px;
+	left: 231px;
+	width: 39.22px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek21 {
+	top: 154px;
+	left: 232px;
+	width: 34.84px;
+	height: 38.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line5 {
+	top: 775px;
+	left: 474px;
+	width: 285px;
+	height: 92.55px;
+}
+
+#e_ek10 {
+	top: 72px;
+	left: 0px;
+	width: 41.61px;
+	height: 46.95px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#y_ek1 {
+	top: 75px;
+	left: 16px;
+	width: 38.23px;
+	height: 47.36px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek11 {
+	top: 77px;
+	left: 30px;
+	width: 39.53px;
+	height: 47.73px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek22 {
+	top: 78px;
+	left: 44px;
+	width: 32.69px;
+	height: 47.99px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek8 {
+	top: 79px;
+	left: 51px;
+	width: 39.89px;
+	height: 48.25px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek4 {
+	top: 79px;
+	left: 66px;
+	width: 34.7px;
+	height: 48.51px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek23 {
+	top: 79px;
+	left: 76px;
+	width: 32.52px;
+	height: 48.67px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek10 {
+	top: 78px;
+	left: 83px;
+	width: 39.4px;
+	height: 48.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek12 {
+	top: 76px;
+	left: 97px;
+	width: 38.55px;
+	height: 49.07px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#w {
+	top: 72px;
+	left: 110px;
+	width: 41.76px;
+	height: 49.25px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek4 {
+	top: 69px;
+	left: 126px;
+	width: 34.98px;
+	height: 49.37px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek24 {
+	top: 66px;
+	left: 136px;
+	width: 32.31px;
+	height: 49.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek8 {
+	top: 62px;
+	left: 142px;
+	width: 37.57px;
+	height: 49.46px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek11 {
+	top: 56px;
+	left: 153px;
+	width: 38.88px;
+	height: 49.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek7 {
+	top: 48px;
+	left: 165px;
+	width: 38.9px;
+	height: 49.46px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek25 {
+	top: 42px;
+	left: 176px;
+	width: 32.31px;
+	height: 49.41px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek5 {
+	top: 37px;
+	left: 182px;
+	width: 34.99px;
+	height: 49.35px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek9 {
+	top: 29px;
+	left: 188px;
+	width: 39.08px;
+	height: 49.24px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek13 {
+	top: 20px;
+	left: 198px;
+	width: 38.54px;
+	height: 49.08px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek26 {
+	top: 12px;
+	left: 208px;
+	width: 32.45px;
+	height: 48.93px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek10 {
+	top: 3px;
+	left: 211px;
+	width: 39.5px;
+	height: 48.75px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek5 {
+	top: -7px;
+	left: 220px;
+	width: 34.69px;
+	height: 48.52px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek27 {
+	top: -14px;
+	left: 225px;
+	width: 32.6px;
+	height: 48.35px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek6 {
+	top: -21px;
+	left: 228px;
+	width: 34.84px;
+	height: 48.16px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek5 {
+	top: -30px;
+	left: 232px;
+	width: 36.43px;
+	height: 47.91px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek11 {
+	top: -43px;
+	left: 236px;
+	width: 40.39px;
+	height: 47.58px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g {
+	top: -56px;
+	left: 241px;
+	width: 39.11px;
+	height: 47.18px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek28 {
+	top: -67px;
+	left: 247px;
+	width: 34.55px;
+	height: 46.85px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line6 {
+	top: 886px;
+	left: 153px;
+	width: 338.13px;
+	height: 78.63px;
+}
+
+#w_ek1 {
+	top: 141px;
+	left: 49px;
+	width: 47.31px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek12 {
+	top: 124px;
+	left: 58px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek13 {
+	top: 110px;
+	left: 63px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek10 {
+	top: 100px;
+	left: 71px;
+	width: 33.93px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek29 {
+	top: 93px;
+	left: 75px;
+	width: 32.52px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek14 {
+	top: 83px;
+	left: 77px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek7 {
+	top: 73px;
+	left: 85px;
+	width: 34.64px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek30 {
+	top: 66px;
+	left: 91px;
+	width: 32.52px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek9 {
+	top: 58px;
+	left: 94px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek9 {
+	top: 47px;
+	left: 103px;
+	width: 38.16px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek6 {
+	top: 38px;
+	left: 112px;
+	width: 35.34px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek31 {
+	top: 32px;
+	left: 119px;
+	width: 32.52px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek10 {
+	top: 25px;
+	left: 123px;
+	width: 38.16px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek12 {
+	top: 16px;
+	left: 133px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek8 {
+	top: 7px;
+	left: 144px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek32 {
+	top: 1px;
+	left: 156px;
+	width: 32.52px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek7 {
+	top: -4px;
+	left: 162px;
+	width: 35.34px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek15 {
+	top: -10px;
+	left: 171px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek13 {
+	top: -17px;
+	left: 183px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g_ek1 {
+	top: -22px;
+	left: 196px;
+	width: 38.16px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek5 {
+	top: -27px;
+	left: 208px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek14 {
+	top: -32px;
+	left: 222px;
+	width: 38.86px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek33 {
+	top: -34px;
+	left: 235px;
+	width: 32.52px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek16 {
+	top: -37px;
+	left: 242px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek8 {
+	top: -39px;
+	left: 256px;
+	width: 34.64px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek34 {
+	top: -40px;
+	left: 265px;
+	width: 32.52px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek9 {
+	top: -41px;
+	left: 272px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek17 {
+	top: -42px;
+	left: 287px;
+	width: 39.57px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g_ek2 {
+	top: -42px;
+	left: 301px;
+	width: 38.16px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek35 {
+	top: -41px;
+	left: 314px;
+	width: 33.93px;
+	height: 37.43px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line7 {
+	top: 70px;
+	left: 661px;
+	width: 352px;
+	height: 110.77px;
+}
+
+#a_ek11 {
+	top: 93px;
+	left: 6px;
+	width: 41.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek10 {
+	top: 81px;
+	left: 15px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek11 {
+	top: 70px;
+	left: 23px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek15 {
+	top: 60px;
+	left: 32px;
+	width: 38.36px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek6 {
+	top: 52px;
+	left: 42px;
+	width: 35.69px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek36 {
+	top: 46px;
+	left: 50px;
+	width: 33.01px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek1 {
+	top: 40px;
+	left: 55px;
+	width: 37.02px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek37 {
+	top: 35px;
+	left: 65px;
+	width: 32.34px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek9 {
+	top: 31px;
+	left: 71px;
+	width: 34.35px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek18 {
+	top: 25px;
+	left: 78px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek7 {
+	top: 19px;
+	left: 90px;
+	width: 35.69px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#k_ek2 {
+	top: 15px;
+	left: 99px;
+	width: 38.36px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek38 {
+	top: 11px;
+	left: 112px;
+	width: 32.34px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek12 {
+	top: 8px;
+	left: 118px;
+	width: 37.69px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek14 {
+	top: 5px;
+	left: 130px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek12 {
+	top: 2px;
+	left: 143px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek39 {
+	top: 1px;
+	left: 157px;
+	width: 32.34px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek10 {
+	top: 0px;
+	left: 164px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek11 {
+	top: 0px;
+	left: 177px;
+	width: 33.68px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek5 {
+	top: 0px;
+	left: 185px;
+	width: 33.68px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek15 {
+	top: 1px;
+	left: 194px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek13 {
+	top: 3px;
+	left: 207px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek40 {
+	top: 6px;
+	left: 220px;
+	width: 36.35px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#w_ek2 {
+	top: 9px;
+	left: 231px;
+	width: 41.7px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek19 {
+	top: 14px;
+	left: 246px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek8 {
+	top: 19px;
+	left: 259px;
+	width: 35.69px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#m {
+	top: 26px;
+	left: 268px;
+	width: 44.38px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek41 {
+	top: 33px;
+	left: 285px;
+	width: 33.01px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek2 {
+	top: 39px;
+	left: 290px;
+	width: 37.02px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek42 {
+	top: 44px;
+	left: 300px;
+	width: 32.34px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek3 {
+	top: 50px;
+	left: 305px;
+	width: 37.02px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek8 {
+	top: 58px;
+	left: 313px;
+	width: 35.02px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek6 {
+	top: 64px;
+	left: 320px;
+	width: 33.68px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek16 {
+	top: 72px;
+	left: 324px;
+	width: 39.03px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g_ek3 {
+	top: 83px;
+	left: 333px;
+	width: 37.69px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek43 {
+	top: 91px;
+	left: 341px;
+	width: 33.68px;
+	height: 36.39px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line8 {
+	top: 193px;
+	left: 997px;
+	width: 293.58px;
+	height: 76.48px;
+}
+
+#l_ek12 {
+	top: -17px;
+	left: 10px;
+	width: 39.3px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek7 {
+	top: -9px;
+	left: 19px;
+	width: 33.5px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#z {
+	top: -2px;
+	left: 23px;
+	width: 37.37px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek13 {
+	top: 7px;
+	left: 31px;
+	width: 37.37px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek9 {
+	top: 14px;
+	left: 40px;
+	width: 35.44px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek14 {
+	top: 20px;
+	left: 47px;
+	width: 38.65px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek44 {
+	top: 26px;
+	left: 58px;
+	width: 32.86px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek4 {
+	top: 31px;
+	left: 63px;
+	width: 36.72px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek45 {
+	top: 35px;
+	left: 73px;
+	width: 32.22px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek13 {
+	top: 39px;
+	left: 78px;
+	width: 33.5px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek16 {
+	top: 43px;
+	left: 85px;
+	width: 38.01px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g_ek4 {
+	top: 47px;
+	left: 96px;
+	width: 37.37px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek46 {
+	top: 50px;
+	left: 107px;
+	width: 32.22px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek14 {
+	top: 53px;
+	left: 113px;
+	width: 37.37px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek17 {
+	top: 56px;
+	left: 124px;
+	width: 38.65px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek15 {
+	top: 58px;
+	left: 136px;
+	width: 38.65px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek47 {
+	top: 59px;
+	left: 149px;
+	width: 32.22px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek1 {
+	top: 60px;
+	left: 155px;
+	width: 38.65px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek20 {
+	top: 60px;
+	left: 168px;
+	width: 38.65px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#w_ek3 {
+	top: 59px;
+	left: 180px;
+	width: 41.23px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek14 {
+	top: 57px;
+	left: 196px;
+	width: 33.5px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek17 {
+	top: 56px;
+	left: 203px;
+	width: 38.01px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek9 {
+	top: 53px;
+	left: 215px;
+	width: 34.79px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek48 {
+	top: 51px;
+	left: 223px;
+	width: 32.86px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek5 {
+	top: 48px;
+	left: 230px;
+	width: 36.72px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek49 {
+	top: 45px;
+	left: 240px;
+	width: 32.22px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#w_ek4 {
+	top: 41px;
+	left: 245px;
+	width: 41.23px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek8 {
+	top: 36px;
+	left: 259px;
+	width: 33.5px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek18 {
+	top: 31px;
+	left: 265px;
+	width: 38.65px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g_ek5 {
+	top: 24px;
+	left: 276px;
+	width: 37.37px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek50 {
+	top: 18px;
+	left: 285px;
+	width: 33.5px;
+	height: 35.66px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line9 {
+	top: 161px;
+	left: 690px;
+	width: 330.27px;
+	height: 114.42px;
+}
+
+#f_ek10 {
+	top: 35px;
+	left: 0px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek21 {
+	top: 26px;
+	left: 12px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek10 {
+	top: 19px;
+	left: 24px;
+	width: 36.23px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek51 {
+	top: 14px;
+	left: 34px;
+	width: 32.62px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek15 {
+	top: 9px;
+	left: 40px;
+	width: 38.4px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek52 {
+	top: 5px;
+	left: 52px;
+	width: 32.62px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#c_ek2 {
+	top: 1px;
+	left: 59px;
+	width: 39.13px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek2 {
+	top: -3px;
+	left: 73px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek16 {
+	top: -6px;
+	left: 87px;
+	width: 38.4px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek11 {
+	top: -8px;
+	left: 100px;
+	width: 36.23px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#m_ek1 {
+	top: -8px;
+	left: 112px;
+	width: 45.64px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek53 {
+	top: -8px;
+	left: 132px;
+	width: 32.62px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek22 {
+	top: -6px;
+	left: 140px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek11 {
+	top: -4px;
+	left: 154px;
+	width: 34.79px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek54 {
+	top: -2px;
+	left: 164px;
+	width: 32.62px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#p {
+	top: 1px;
+	left: 171px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek23 {
+	top: 6px;
+	left: 184px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#w_ek5 {
+	top: 14px;
+	left: 197px;
+	width: 42.74px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek18 {
+	top: 22px;
+	left: 213px;
+	width: 39.13px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek12 {
+	top: 30px;
+	left: 224px;
+	width: 36.23px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek12 {
+	top: 37px;
+	left: 233px;
+	width: 34.79px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek6 {
+	top: 45px;
+	left: 239px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek15 {
+	top: 54px;
+	left: 250px;
+	width: 34.06px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek55 {
+	top: 60px;
+	left: 256px;
+	width: 32.62px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek10 {
+	top: 68px;
+	left: 259px;
+	width: 35.51px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek13 {
+	top: 77px;
+	left: 265px;
+	width: 36.23px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek24 {
+	top: 88px;
+	left: 269px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek7 {
+	top: 102px;
+	left: 275px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek11 {
+	top: 116px;
+	left: 280px;
+	width: 39.85px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek16 {
+	top: 127px;
+	left: 285px;
+	width: 34.06px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek19 {
+	top: 139px;
+	left: 285px;
+	width: 39.13px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek56 {
+	top: 150px;
+	left: 289px;
+	width: 34.06px;
+	height: 37.98px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line10 {
+	top: 391px;
+	left: 946px;
+	width: 347.64px;
+	height: 95.82px;
+}
+
+#l_ek17 {
+	top: -63px;
+	left: 36px;
+	width: 40.3px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek9 {
+	top: -52px;
+	left: 42px;
+	width: 33.94px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#k_ek3 {
+	top: -42px;
+	left: 44px;
+	width: 38.89px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek20 {
+	top: -30px;
+	left: 49px;
+	width: 38.89px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek57 {
+	top: -21px;
+	left: 57px;
+	width: 32.53px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek17 {
+	top: -12px;
+	left: 59px;
+	width: 38.18px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek58 {
+	top: -4px;
+	left: 67px;
+	width: 32.53px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek3 {
+	top: 4px;
+	left: 69px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek21 {
+	top: 15px;
+	left: 78px;
+	width: 38.89px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek18 {
+	top: 23px;
+	left: 88px;
+	width: 33.94px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek19 {
+	top: 29px;
+	left: 93px;
+	width: 33.94px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek59 {
+	top: 36px;
+	left: 99px;
+	width: 36.77px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek12 {
+	top: 44px;
+	left: 107px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek14 {
+	top: 51px;
+	left: 119px;
+	width: 36.06px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek25 {
+	top: 58px;
+	left: 127px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek11 {
+	top: 64px;
+	left: 139px;
+	width: 35.36px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek4 {
+	top: 69px;
+	left: 147px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek60 {
+	top: 74px;
+	left: 160px;
+	width: 32.53px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek13 {
+	top: 77px;
+	left: 167px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek26 {
+	top: 82px;
+	left: 180px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek10 {
+	top: 85px;
+	left: 193px;
+	width: 33.94px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek20 {
+	top: 87px;
+	left: 201px;
+	width: 33.94px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek61 {
+	top: 88px;
+	left: 210px;
+	width: 32.53px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek18 {
+	top: 89px;
+	left: 216px;
+	width: 38.18px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek19 {
+	top: 91px;
+	left: 229px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek16 {
+	top: 91px;
+	left: 243px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek62 {
+	top: 91px;
+	left: 257px;
+	width: 32.53px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek14 {
+	top: 90px;
+	left: 263px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek8 {
+	top: 88px;
+	left: 277px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek15 {
+	top: 85px;
+	left: 291px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek16 {
+	top: 81px;
+	left: 304px;
+	width: 39.59px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek21 {
+	top: 78px;
+	left: 317px;
+	width: 33.94px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek22 {
+	top: 74px;
+	left: 325px;
+	width: 38.89px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek63 {
+	top: 69px;
+	left: 337px;
+	width: 34.65px;
+	height: 37.48px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line11 {
+	top: 390px;
+	left: 1200px;
+	width: 253.57px;
+	height: 140.05px;
+}
+
+#d_ek17 {
+	top: -19px;
+	left: 14px;
+	width: 42.7px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek27 {
+	top: -26px;
+	left: 30px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek9 {
+	top: -30px;
+	left: 45px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek17 {
+	top: -32px;
+	left: 59px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek22 {
+	top: -33px;
+	left: 74px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek23 {
+	top: -32px;
+	left: 83px;
+	width: 39.09px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek64 {
+	top: -30px;
+	left: 97px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek65 {
+	top: -28px;
+	left: 106px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek18 {
+	top: -25px;
+	left: 113px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek28 {
+	top: -18px;
+	left: 126px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek10 {
+	top: -10px;
+	left: 139px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek18 {
+	top: 0px;
+	left: 150px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek23 {
+	top: 8px;
+	left: 162px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek24 {
+	top: 17px;
+	left: 166px;
+	width: 39.09px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek66 {
+	top: 27px;
+	left: 175px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek12 {
+	top: 35px;
+	left: 178px;
+	width: 35.49px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek29 {
+	top: 46px;
+	left: 180px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek11 {
+	top: 58px;
+	left: 186px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek24 {
+	top: 67px;
+	left: 188px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek67 {
+	top: 75px;
+	left: 190px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek19 {
+	top: 85px;
+	left: 187px;
+	width: 38.37px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek20 {
+	top: 100px;
+	left: 185px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek19 {
+	top: 114px;
+	left: 182px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek68 {
+	top: 125px;
+	left: 182px;
+	width: 32.6px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek13 {
+	top: 133px;
+	left: 177px;
+	width: 35.49px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek15 {
+	top: 143px;
+	left: 172px;
+	width: 36.21px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek30 {
+	top: 154px;
+	left: 163px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek11 {
+	top: 165px;
+	left: 153px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek19 {
+	top: 175px;
+	left: 142px;
+	width: 39.81px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek25 {
+	top: 182px;
+	left: 135px;
+	width: 34.05px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek25 {
+	top: 187px;
+	left: 123px;
+	width: 39.09px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek69 {
+	top: 192px;
+	left: 114px;
+	width: 34.77px;
+	height: 37.9px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line12 {
+	top: 602px;
+	left: 1083px;
+	width: 253.11px;
+	height: 116.79px;
+}
+
+#f_ek13 {
+	top: -66px;
+	left: 175px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek12 {
+	top: -65px;
+	left: 167px;
+	width: 34.14px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek16 {
+	top: -62px;
+	left: 157px;
+	width: 36.34px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek26 {
+	top: -58px;
+	left: 144px;
+	width: 39.28px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek70 {
+	top: -53px;
+	left: 138px;
+	width: 32.67px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek20 {
+	top: -48px;
+	left: 125px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek12 {
+	top: -39px;
+	left: 114px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek17 {
+	top: -31px;
+	left: 107px;
+	width: 36.34px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek21 {
+	top: -21px;
+	left: 97px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek71 {
+	top: -13px;
+	left: 95px;
+	width: 32.67px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek20 {
+	top: -4px;
+	left: 87px;
+	width: 38.55px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek22 {
+	top: 8px;
+	left: 81px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek20 {
+	top: 22px;
+	left: 77px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek72 {
+	top: 32px;
+	left: 78px;
+	width: 32.67px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#c_ek3 {
+	top: 43px;
+	left: 74px;
+	width: 39.28px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek21 {
+	top: 56px;
+	left: 74px;
+	width: 38.55px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek26 {
+	top: 66px;
+	left: 78px;
+	width: 34.14px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek21 {
+	top: 77px;
+	left: 77px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek18 {
+	top: 89px;
+	left: 82px;
+	width: 36.34px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek31 {
+	top: 101px;
+	left: 85px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek23 {
+	top: 113px;
+	left: 92px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek73 {
+	top: 122px;
+	left: 102px;
+	width: 32.67px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek21 {
+	top: 130px;
+	left: 106px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#u_ek13 {
+	top: 139px;
+	left: 116px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek22 {
+	top: 148px;
+	left: 127px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek23 {
+	top: 154px;
+	left: 140px;
+	width: 40.02px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek27 {
+	top: 159px;
+	left: 153px;
+	width: 34.14px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek27 {
+	top: 162px;
+	left: 161px;
+	width: 39.28px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek74 {
+	top: 164px;
+	left: 174px;
+	width: 34.88px;
+	height: 38.3px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line13 {
+	top: 755px;
+	left: 1156px;
+	width: 257px;
+	height: 124.71px;
+}
+
+#c_ek4 {
+	top: -76px;
+	left: 140px;
+	width: 42.67px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek32 {
+	top: -65px;
+	left: 153px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek33 {
+	top: -53px;
+	left: 163px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek28 {
+	top: -43px;
+	left: 172px;
+	width: 34.03px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek75 {
+	top: -36px;
+	left: 177px;
+	width: 32.6px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek13 {
+	top: -29px;
+	left: 180px;
+	width: 34.03px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek14 {
+	top: -20px;
+	left: 182px;
+	width: 35.47px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek76 {
+	top: -11px;
+	left: 186px;
+	width: 32.6px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#w_ek6 {
+	top: 1px;
+	left: 183px;
+	width: 42.67px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek14 {
+	top: 15px;
+	left: 189px;
+	width: 34.03px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek15 {
+	top: 24px;
+	left: 188px;
+	width: 35.47px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek5 {
+	top: 37px;
+	left: 184px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek77 {
+	top: 48px;
+	left: 185px;
+	width: 32.6px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek22 {
+	top: 58px;
+	left: 179px;
+	width: 38.35px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek78 {
+	top: 67px;
+	left: 178px;
+	width: 32.6px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek24 {
+	top: 77px;
+	left: 169px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek23 {
+	top: 89px;
+	left: 162px;
+	width: 38.35px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek25 {
+	top: 100px;
+	left: 152px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek34 {
+	top: 110px;
+	left: 141px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek35 {
+	top: 118px;
+	left: 128px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek24 {
+	top: 125px;
+	left: 115px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek79 {
+	top: 129px;
+	left: 108px;
+	width: 33.32px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek6 {
+	top: 132px;
+	left: 95px;
+	width: 37.63px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek80 {
+	top: 134px;
+	left: 88px;
+	width: 32.6px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#b_ek26 {
+	top: 135px;
+	left: 73px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#l_ek29 {
+	top: 134px;
+	left: 64px;
+	width: 34.03px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek36 {
+	top: 133px;
+	left: 49px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek37 {
+	top: 130px;
+	left: 35px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek22 {
+	top: 125px;
+	left: 21px;
+	width: 39.79px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek81 {
+	top: 120px;
+	left: 13px;
+	width: 34.03px;
+	height: 37.86px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#line14 {
+	top: 890px;
+	left: 816px;
+	width: 357px;
+	height: 99.28px;
+}
+
+#t_ek16 {
+	top: -21px;
+	left: 331px;
+	width: 41.64px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek6 {
+	top: -25px;
+	left: 317px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek28 {
+	top: -27px;
+	left: 303px;
+	width: 39.41px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek25 {
+	top: -29px;
+	left: 289px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek82 {
+	top: -29px;
+	left: 282px;
+	width: 32.72px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#t_ek17 {
+	top: -30px;
+	left: 272px;
+	width: 35.69px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek7 {
+	top: -29px;
+	left: 257px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#e_ek29 {
+	top: -28px;
+	left: 243px;
+	width: 39.41px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek83 {
+	top: -26px;
+	left: 236px;
+	width: 32.72px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#c_ek5 {
+	top: -24px;
+	left: 222px;
+	width: 39.41px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#h_ek8 {
+	top: -20px;
+	left: 208px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek24 {
+	top: -16px;
+	left: 196px;
+	width: 38.67px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek19 {
+	top: -11px;
+	left: 186px;
+	width: 36.44px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#m_ek2 {
+	top: -4px;
+	left: 167px;
+	width: 46.1px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek84 {
+	top: 3px;
+	left: 162px;
+	width: 32.72px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek15 {
+	top: 7px;
+	left: 154px;
+	width: 34.21px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#s_ek7 {
+	top: 13px;
+	left: 144px;
+	width: 37.92px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek85 {
+	top: 19px;
+	left: 138px;
+	width: 32.72px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#f_ek14 {
+	top: 24px;
+	left: 131px;
+	width: 34.95px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#i_ek16 {
+	top: 31px;
+	left: 124px;
+	width: 34.21px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#r_ek20 {
+	top: 37px;
+	left: 116px;
+	width: 36.44px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#m_ek3 {
+	top: 49px;
+	left: 101px;
+	width: 46.1px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek86 {
+	top: 60px;
+	left: 99px;
+	width: 32.72px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#a_ek25 {
+	top: 68px;
+	left: 90px;
+	width: 38.67px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#n_ek26 {
+	top: 80px;
+	left: 82px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek23 {
+	top: 93px;
+	left: 76px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek87 {
+	top: 103px;
+	left: 75px;
+	width: 32.72px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#g_ek6 {
+	top: 113px;
+	left: 68px;
+	width: 38.67px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek38 {
+	top: 126px;
+	left: 63px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#o_ek39 {
+	top: 140px;
+	left: 59px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#d_ek24 {
+	top: 154px;
+	left: 56px;
+	width: 40.15px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+
+#___ek88 {
+	top: 166px;
+	left: 57px;
+	width: 34.95px;
+	height: 38.56px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FBE083;
+}
+
+#heading {
+	top: 57.55px;
+	left: 195.02px;
+	width: 674.94px;
+	height: 426.16px;
+}
+
+#s_ek8 {
+	top: 3px;
+	left: 5px;
+	width: 117.84px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#o_ek40 {
+	top: 1px;
+	left: 54px;
+	width: 117.84px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#n_ek27 {
+	top: 8px;
+	left: 102px;
+	width: 118.75px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#g_ek7 {
+	top: 24px;
+	left: 148px;
+	width: 115.12px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#s_ek9 {
+	top: 46px;
+	left: 187px;
+	width: 110.58px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#___ek89 {
+	top: 64px;
+	left: 221px;
+	width: 88.8px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#o_ek41 {
+	top: 88px;
+	left: 229px;
+	width: 117.84px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#f_ek15 {
+	top: 119px;
+	left: 261px;
+	width: 100.6px;
+	height: 128.05px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#t_ek18 {
+	top: 172px;
+	left: 286px;
+	width: 107px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#h_ek9 {
+	top: 209px;
+	left: 292px;
+	width: 123px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#e_ek30 {
+	top: 248px;
+	left: 318px;
+	width: 120px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#___ek90 {
+	top: 271px;
+	left: 353px;
+	width: 90px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#w_ek7 {
+	top: 301px;
+	left: 357px;
+	width: 156px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#i_ek17 {
+	top: 325px;
+	left: 431px;
+	width: 101px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#t_ek19 {
+	top: 333px;
+	left: 457px;
+	width: 107px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#c_ek6 {
+	top: 339px;
+	left: 488px;
+	width: 119px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#h_ek10 {
+	top: 337px;
+	left: 532px;
+	width: 123px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#e_ek31 {
+	top: 326px;
+	left: 578px;
+	width: 120px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#s_ek10 {
+	top: 308px;
+	left: 619px;
+	width: 114px;
+	height: 136px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 72px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#author {
+	top: 467px;
+	left: 714px;
+	width: 240.88px;
+	height: 78.8px;
+}
+
+#w_ek8 {
+	top: 50px;
+	left: 5px;
+	width: 49.87px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#i_ek18 {
+	top: 57px;
+	left: 27px;
+	width: 35.18px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#l_ek30 {
+	top: 60px;
+	left: 37px;
+	width: 35.18px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#l_ek31 {
+	top: 62px;
+	left: 46px;
+	width: 35.18px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#i_ek19 {
+	top: 64px;
+	left: 55px;
+	width: 35.18px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#a_ek26 {
+	top: 65px;
+	left: 65px;
+	width: 39.82px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#m_ek4 {
+	top: 65px;
+	left: 79px;
+	width: 47.55px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#___ek91 {
+	top: 63px;
+	left: 101px;
+	width: 32.86px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#s_ek11 {
+	top: 60px;
+	left: 108px;
+	width: 40.59px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#h_ek11 {
+	top: 55px;
+	left: 122px;
+	width: 41.37px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#a_ek27 {
+	top: 49px;
+	left: 136px;
+	width: 39.82px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#k_ek4 {
+	top: 41px;
+	left: 148px;
+	width: 41.37px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#e_ek32 {
+	top: 31px;
+	left: 160px;
+	width: 40.59px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#s_ek12 {
+	top: 21px;
+	left: 171px;
+	width: 39.05px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#p_ek1 {
+	top: 10px;
+	left: 179px;
+	width: 41.37px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#e_ek33 {
+	top: -3px;
+	left: 188px;
+	width: 40.59px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#a_ek28 {
+	top: -16px;
+	left: 194px;
+	width: 39.82px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#r_ek21 {
+	top: -29px;
+	left: 199px;
+	width: 38.28px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#e_ek34 {
+	top: -43px;
+	left: 202px;
+	width: 40.59px;
+	height: 39.42px;
+	overflow: hidden;
+	font-family: Brick Display Pro;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+/* Add your custom CSS here */
