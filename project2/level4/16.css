@@ -1,48 +1,104 @@
+body {
+    background-color: black;
+	font-family: 'Abril Fatface', cursive;
+}
 div.a {
-    width: 250px;
-    height: 100px;
-    border: 3px solid black;
-    padding: 30px;
-    margin-left: 500px;
-    margin-top: 200px
-    font-family: Inconsolata, monospace;
-    font-size: 1.8rem;
-    text-transform: uppercase;
-    width: 515px;
-    height: 168px;
+	color: coral;
+	font-size: 30px;
+	transform: rotate(-90deg);
+	position: absolute; top: 300px;
 }
 div.b {
-    transform: rotate(-90deg);
-    width: 250px;
-    height: 100px;
-    border: 3px solid black;
-    padding: 30px;
-    margin-left: 650px;
+	color: rgba(255, 227, 103, 0.952);
+	font-size: 20px;
+	position: absolute; left: 300px; top: 200px;
 }
 div.c {
-    transform: rotate(90deg);
-    width: 250px;
-    height: 35px;
-    border: 3px solid black;
-    padding: 30px;
-    margin-left: 200px;
+	color: rgb(155, 196, 75);
+	font-size: 25px;
+	position:absolute; left: 320px; top: 55px;
 }
 div.d {
-    transform: rotate(180deg);
-    width: 250px;
-    height: 35px;
-    border: 3px solid black;
-    padding: 30px;
-    margin-left: 308px;
-    margin-top: 5px;
+	color: coral;
 }
-body {
-    min-height: 100vh;
-    background-color: black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    color: coral;
+div.e {
+	color: coral;
+	font-size: 30px;
+	transform: rotate(90deg);
+	position: absolute; top: 200px; right: 10px;
 }
-  
+div.f {
+	color: rgba(255, 227, 103, 0.952);
+	font-size: 20px;
+	transform: rotate(180deg);
+	position: absolute; left: 500px; top: 100px;
+}
+div.g {
+	color: rgb(155, 196, 75);
+	font-size: 15px;
+	position:absolute; left: 1000px; top: 25px;
+}
+div.h {
+	color: coral;
+	font-size: 15px;
+	transform: rotate(-90deg);
+	position: absolute; top: 600px;
+}
+div.i {
+	color: rgba(255, 227, 103, 0.952);
+	font-size: 20px;
+	position: absolute; left: 300px; top: 500px;
+}
+div.j {
+	color: rgb(155, 196, 75);
+	font-size: 20px;
+	position: absolute; left: 25px; top: 150px;
+}
+div.k {
+	color: coral;
+	font-size: 45px;
+	position: absolute; left: 700px; top: 20px;
+}
+div.l {
+	color:rgba(255, 227, 103, 0.952);
+	font-size: 20px;
+	transform: rotate(90deg);
+	position: absolute; left: 0px; top: 400px;
+}
+div.m {
+	color: rgba(255, 227, 103, 0.952);
+	font-size: 10px;
+	position:absolute; left: 15px; top: 200px
+}
+div.n {
+	color: rgba(255, 227, 103, 0.952);
+	font-size: 30px;
+	position: absolute; left: 500px; top:600px
+}
+div.o {
+	color: coral;
+	font-size: 25px;
+	position: absolute; left: 575px; top:580px
+}
+div.p {
+	color: rgb(155, 196, 75);
+	font-size: 42px;
+	transform: rotate(90deg);
+	position: absolute; left: 1075px; bottom:300px;
+}
+div.q {
+	color: rgba(255, 227, 103, 0.952);
+	font-size: 15px;
+	position: absolute; left: 1000px; top: 600px;
+}
+h1 {
+	color: white;
+	font-size: 90px;
+	position: absolute; left: 300px; top: 180px;
+}
+h3 {
+	color: white;
+	font-size: 30px;
+	text-transform: uppercase;
+	position: absolute; left: 730px; top: 330px;
+}
