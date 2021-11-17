@@ -1,0 +1,256 @@
+body { margin: 0px; padding: 0px; font-family:"basics"; overflow-x:hidden; }
+
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#con1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 1900px;
+}
+
+#double__double_toil_and_trouble__fire_burn_and_caldron_bubble__fillet_of_a_fenny_snake__in_the_caldron_boil_and_bake__eye_of_newt_and_toe_of_frog__wool_of_bat_and_tongue_of_dog__adder_s_fork_and_blind_worm_s_sting__lizard_s_leg_and_howlet_s_wing__for_a_charm_of_powerful_trouble__like_a_hell_broth_boil_and_bubble__double__double_toil_and_trouble__fire_burn_and_caldron_bubble__cool_it_with_a_baboon_s_blood__then_the_charm_is_firm_and_good_ {
+	top: 350px;
+	left: 607px;
+	width: 234px;
+	height: 256px;
+	overflow: hidden;
+	font-family: Pitch;
+	font-size: 12px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#by_william_shakespeare {
+	top: 230px;
+	left: 753px;
+	width: 174px;
+	height: 23px;
+	overflow: hidden;
+	font-family: Pitch;
+	font-size: 12px;
+	text-align: justified;
+	color:#000000;
+}
+
+#group_1 {
+	top: 267px;
+	left: 521px;
+	width: 396px;
+	height: 404px;
+}
+
+#s {
+	top: 0px;
+	left: 0px;
+	width: 68px;
+	height: 63px;
+}
+
+
+#o {
+	top: 0px;
+	left: 83px;
+	width: 102px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#n {
+	top: 0px;
+	left: 168px;
+	width: 91px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#g {
+	top: 0px;
+	left: 243px;
+	width: 95px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#s_ek1 {
+	top: 0px;
+	left: 332px;
+	width: 63px;
+	height: 63px;
+}
+
+
+#o_ek1 {
+	top: 70px;
+	left: 311px;
+	width: 102px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#f {
+	top: 138px;
+	left: 320px;
+	width: 83px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#t {
+	top: 203px;
+	left: 314px;
+	width: 96px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#h {
+	top: 274px;
+	left: 315px;
+	width: 94px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#e {
+	top: 339px;
+	left: 321px;
+	width: 83px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#w {
+	top: 319px;
+	left: 216px;
+	width: 120px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#i {
+	top: 319px;
+	left: 167px;
+	width: 60px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#h_ek1 {
+	top: 238px;
+	left: 2px;
+	width: 94px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#e_ek1 {
+	top: 149px;
+	left: 8px;
+	width: 83px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#s_ek2 {
+	top: 65px;
+	left: 8px;
+	width: 82px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#t_ek1 {
+	top: 319px;
+	left: 82px;
+	width: 96px;
+	height: 125px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 60px;
+	text-align: justified;
+	color:#991313;
+}
+
+
+#c {
+	top: 339px;
+	left: 0px;
+	width: 63px;
+	height: 63px;
+}
+
+
+
+/* Add your custom CSS here */
