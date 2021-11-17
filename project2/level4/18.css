@@ -1,0 +1,455 @@
+
+body { 
+	margin: 0px; 
+	padding: 0px; 
+	font-family:"basics"; 
+}
+
+div { position: absolute; }
+
+#content-container { 
+	display: block; 
+	position: relative; 
+	width: 1699px;  
+	margin-left: auto; 
+	margin-right: auto;  
+}
+
+#content-container > 
+div{ 
+	position: relative; 
+	top:inherit; 
+}
+#group {
+	top: 0px;
+	left: 0px;
+	width: 1700px;
+	height: 1388px;
+}
+
+#heading {
+	top: 152px;
+	left: 130px;
+	width: 99px;
+	height: 1035px;
+}
+
+#s {
+	top: 0px;
+	left: -12px;
+	width: 95px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#o {
+	top: 48px;
+	left: 4px;
+	width: 118px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#n {
+	top: 96px;
+	left: -12px;
+	width: 106px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#g {
+	top: 144px;
+	left: 12px;
+	width: 110px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#s_ek1 {
+	top: 192px;
+	left: -12px;
+	width: 95px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#f {
+	top: 289px;
+	left: 33px;
+	width: 89px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#o_ek1 {
+	top: 297px;
+	left: -12px;
+	width: 118px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#t {
+	top: 414px;
+	left: -12px;
+	width: 111px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#h {
+	top: 450px;
+	left: 13px;
+	width: 109px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#e {
+	top: 498px;
+	left: -12px;
+	width: 95px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#w {
+	top: 611px;
+	left: -12px;
+	width: 139px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#i {
+	top: 583px;
+	left: 58px;
+	width: 69px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#t_ek1 {
+	top: 720px;
+	left: -12px;
+	width: 111px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#c {
+	top: 769px;
+	left: 4px;
+	width: 103px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#h_ek1 {
+	top: 829px;
+	left: -12px;
+	width: 109px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#e_ek1 {
+	top: 865px;
+	left: 12px;
+	width: 95px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#s_ek2 {
+	top: 938px;
+	left: -12px;
+	width: 95px;
+	height: 146px;
+	overflow: hidden;
+	font-family: Basics Serif;
+	font-size: 70px;
+	text-align: justified;
+	color:#000000;
+}
+
+
+#author {
+	top: 469px;
+	left: 308px;
+	width: 33px;
+	height: 463px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line1 {
+	top: 98px;
+	left: 511px;
+	width: 151px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line2 {
+	top: 466px;
+	left: 532px;
+	width: 146px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line3 {
+	top: 834px;
+	left: 534px;
+	width: 121px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line4 {
+	top: 1202px;
+	left: 528px;
+	width: 153px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line5 {
+	top: 278px;
+	left: 792px;
+	width: 153px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line6 {
+	top: 629px;
+	left: 792px;
+	width: 153px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line7 {
+	top: 980px;
+	left: 788px;
+	width: 175px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line8 {
+	top: 98px;
+	left: 1061px;
+	width: 175px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line9 {
+	top: 466px;
+	left: 1073px;
+	width: 175px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line10 {
+	top: 834px;
+	left: 1061px;
+	width: 175px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line11 {
+	top: 1202px;
+	left: 1081px;
+	width: 151px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line12 {
+	top: 278px;
+	left: 1358px;
+	width: 146px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line13 {
+	top: 629px;
+	left: 1364px;
+	width: 157px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+#line14 {
+	top: 980px;
+	left: 1367px;
+	width: 157px;
+	height: 63px;
+	overflow: hidden;
+	font-family: Avenir Next;
+	font-size: 18px;
+	text-align: center;
+	color:#000000;
+}
+
+
+
+/* Add your custom CSS here */
