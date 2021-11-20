@@ -64,3 +64,33 @@ div.title {
 		background-position: 100%;
 	}
 }
+div.author {
+	background-color: #bbbbbb;
+    background-image: linear-gradient( 400deg, #000000 16.666%, );
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: rainbow-text-simple-animation-rev 5s infinite alternate-reverse
+}
+div.author {
+	position: relative; top: 130px; left: 450px;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+	font-weight: bold;
+    text-align: center;
+    background-image: linear-gradient(
+60deg, #cf5d70, #a2bb31 , #3463ca, #b63a15);
+    background-clip: text;
+    color: transparent;
+	background-size: 300%;
+	background-position: -100%;
+}
+@keyframes rainbow-text-simple-animation-rev {
+	from {
+		background-position: 0%;
+	}
+	to {
+		background-position: 100%;
+	}
+}
