@@ -1,7 +1,26 @@
 body {
 	background:#e3ebce;
-	font-family: Helvetica;
+	font-family: 'Balsamiq Sans', cursive;
+	padding: 20px;
 }
-	h1 {
+
+h1 {
 	color: #c2ab11; 
+}
+
+#title {
+	text-align: center;
+	background-color: antiquewhite;
+}
+
+#apendix {
+	text-align: center;
+	background-color: beige;
+	border: 5px solid white;
+	padding: 10px;
+	color: #c2ab11;
+}
+
+#summary {
+
 }
