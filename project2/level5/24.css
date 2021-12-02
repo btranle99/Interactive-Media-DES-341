@@ -1,377 +1,144 @@
-body { 
-	margin: 0px; 
-	padding: 0px; 
-	font-family:"Arial"; 
-	overflow-x:hidden;
-	background-color: black; 
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700,900,400italic,700italic,900italic);
+
+*,
+:before,
+:after {
+    box-sizing: border-box;
 }
 
-div { 
-	position: absolute; 
-}
-#content-container { 
-	display: block; 
-	position: relative; 
-	width: 1440px;  
-	margin-left: auto; 
-	margin-right: auto;  
+body {
+    background-color: #fdf9fd;
+    color: #011a32;
+    font: 16px/1.25 'Raleway', sans-serif;
+    text-align: center;
 }
 
-#content-container > div{ 
-	position: relative; 
-	top:inherit; 
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70em;
 }
 
-#page__20_ek1 {
-	top: 0px;
-	left: 0px;
-	width: 1440px;
-	height: 3348px;
+#container {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 1em;
+    width: 100%;
 }
 
-#name {
-	top: 322px;
-	left: 92px;
-	width: 4010px;
-	height: 548px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 288px;
-	text-align: left;
-	color:#FFFFFF;
+h1 {
+    animation: text-shadow 1.5s ease-in-out infinite;
+    font-size: 3em;
+    font-weight: 900;
+    line-height: 1;
 }
 
-
-#author {
-	top: 725px;
-	left: 914px;
-	width: 552px;
-	height: 92px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 48px;
-	text-align: left;
-	color:#FFFFFF;
+h1:hover {
+    animation-play-state: paused;
 }
 
-#moon_shape {
-	top: 966px;
-	left: 159px;
-	width: 1121px;
-	height: 1342px;
+h2 {
+    animation: text-shadow 2.5s ease-in-out infinite;
+    font-size: 3em;
+    font-weight: 900;
+    line-height: 1;
 }
 
-#line1 {
-	top: 0px;
-	left: 574px;
-	width: 193px;
-	height: 76px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 40px;
-	text-align: left;
-	color:#FFFFFF;
+h2:hover {
+    animation-play-state: paused;
+}
+a {
+    color: #024794;
 }
 
-
-#line2 {
-	top: 43px;
-	left: 410px;
-	width: 274.5px;
-	height: 85.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 45px;
-	text-align: left;
-	color:#FFFFFF; 
+h3 {
+    animation: text-shadow 3.5s ease-in-out infinite;
+    font-size: 3em;
+    font-weight: 900;
+    line-height: 1;
 }
 
-
-#line3 {
-	top: 92px;
-	left: 326px;
-	width: 312px;
-	height: 87px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 46px;
-	text-align: left;
-	color:#FFFFFF;
+h3:hover {
+    animation-play-state: paused;
+}
+a:hover {
+    text-decoration: none;
 }
 
-
-#line4 {
-	top: 142px;
-	left: 266px;
-	width: 322.5px;
-	height: 85.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 45px;
-	text-align: left;
-	color:#FFFFFF;
+h4 {
+    animation: text-shadow 4.5s ease-in-out infinite;
+    font-size: 3em;
+    font-weight: 900;
+    line-height: 1;
 }
 
-
-#line5 {
-	top: 191px;
-	left: 209px;
-	width: 333.5px;
-	height: 85.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 45px;
-	text-align: left;
-	color:#FFFFFF;
+h4:hover {
+    animation-play-state: paused;
 }
 
-
-#line6 {
-	top: 240px;
-	left: 156px;
-	width: 352px;
-	height: 79px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 42px;
-	text-align: left;
-	color:#FFFFFF;
+h5 {
+    animation: text-shadow 5.5s ease-in-out infinite;
+    font-size: 3em;
+    font-weight: 900;
+    line-height: 1;
 }
 
+h5:hover {
+    animation-play-state: paused;
+}
+@keyframes text-shadow {
+    0% {  
+        transform: translateY(0);
+        text-shadow: 
+            0 0 0 #0c2ffb, 
+            0 0 0 #2cfcfd, 
+            0 0 0 #fb203b, 
+            0 0 0 #fefc4b;
+    }
 
-#line7 {
-	top: 285px;
-	left: 112px;
-	width: 371px;
-	height: 79px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 42px;
-	text-align: left;
-	color:#FFFFFF;
+    20% {  
+        transform: translateY(-1em);
+        text-shadow: 
+            0 0.125em 0 #0c2ffb, 
+            0 0.25em 0 #2cfcfd, 
+            0 -0.125em 0 #fb203b, 
+            0 -0.25em 0 #fefc4b;
+    }
+
+    40% {  
+        transform: translateY(0.5em);
+        text-shadow: 
+            0 -0.0625em 0 #0c2ffb, 
+            0 -0.125em 0 #2cfcfd, 
+            0 0.0625em 0 #fb203b, 
+            0 0.125em 0 #fefc4b;
+    }
+    
+   60% {
+        transform: translateY(-0.25em);
+        text-shadow: 
+            0 0.03125em 0 #0c2ffb, 
+            0 0.0625em 0 #2cfcfd, 
+            0 -0.03125em 0 #fb203b, 
+            0 -0.0625em 0 #fefc4b;
+    }
+
+    80% {  
+        transform: translateY(0);
+        text-shadow: 
+            0 0 0 #0c2ffb, 
+            0 0 0 #2cfcfd, 
+            0 0 0 #fb203b, 
+            0 0 0 #fefc4b;
+    }
 }
 
-
-#line8 {
-	top: 330px;
-	left: 85px;
-	width: 386.5px;
-	height: 88.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 47px;
-	text-align: left;
-	color:#FFFFFF;
+@media (prefers-reduced-motion: reduce) {
+    * {
+      animation: none !important;
+      transition: none !important;
+    }
 }
-
-
-#line9 {
-	top: 381px;
-	left: 63px;
-	width: 422px;
-	height: 155px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 82px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line10 {
-	top: 474px;
-	left: 43px;
-	width: 399px;
-	height: 92px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 48px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line11 {
-	top: 527px;
-	left: 15px;
-	width: 438px;
-	height: 122px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 64px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line_12 {
-	top: 599px;
-	left: 0px;
-	width: 532.5px;
-	height: 237.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 125px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line13 {
-	top: 744px;
-	left: 14px;
-	width: 433px;
-	height: 46px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 24px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line14 {
-	top: 768px;
-	left: 14px;
-	width: 480px;
-	height: 95px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 50px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line15 {
-	top: 823px;
-	left: 26px;
-	width: 505.5px;
-	height: 96.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 51px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line16 {
-	top: 879px;
-	left: 44px;
-	width: 503.5px;
-	height: 69.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 37px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line17 {
-	top: 918px;
-	left: 60px;
-	width: 514.5px;
-	height: 66.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 35px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line18 {
-	top: 955px;
-	left: 85px;
-	width: 545.5px;
-	height: 66.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 35px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line19 {
-	top: 992px;
-	left: 117px;
-	width: 582.5px;
-	height: 120.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 63px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line20 {
-	top: 1063px;
-	left: 179px;
-	width: 704px;
-	height: 130px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 68px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line21 {
-	top: 1142px;
-	left: 251px;
-	width: 923px;
-	height: 105px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 48px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line22 {
-	top: 1196px;
-	left: 346px;
-	width: 722px;
-	height: 92px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 48px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line23 {
-	top: 1242px;
-	left: 436px;
-	width: 565px;
-	height: 92px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 48px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-#line24 {
-	top: 1293px;
-	left: 513px;
-	width: 386.5px;
-	height: 77.5px;
-	overflow: hidden;
-	font-family: Brick Display Pro;
-	font-size: 41px;
-	text-align: left;
-	color:#FFFFFF;
-}
-
-
-
-/* Add your custom CSS here */
