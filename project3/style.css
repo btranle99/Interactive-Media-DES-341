@@ -5,16 +5,16 @@
 #game{
     width: 400px;
     height: 500px;
-    background-color:rgb(208, 238, 252);
+    background-color:rgb(0, 0, 0);
     margin: auto;
     overflow: hidden;
     top: 50px;
 }
 #character{
-    width: 20px;
-    height: 20px;
-    background-color: red;
-    border-radius: 50%;
+    width: 47px;
+    height: 47px;
+    background-image: url(img/cat.png);
+    background-size: 47px;
     position: relative;
     top: 400px;
     left: 190px;
@@ -23,15 +23,15 @@
 .block{
     width: 400px;
     height: 20px;
-    background-color:rgb(118, 161, 77);
+    background-color:rgb(221, 150, 156);
     position: relative;
     top: 100px;
     margin-top: -20px;
 }
 .hole{
-    width: 40px;
+    width: 60px;
     height: 20px;
-    background-color:rgb(208, 238, 252);
+    background-color:rgb(0, 0, 0);
     position: relative;
     top: 100px;
     margin-top: -20px;
